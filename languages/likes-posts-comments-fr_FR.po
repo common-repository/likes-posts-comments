@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: like-posts-comments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-08 16:45+0100\n"
+"PO-Revision-Date: 2013-02-08 16:46+0100\n"
+"Last-Translator: Chap <nanao@yopmail.com>\n"
+"Language-Team: Aurelien Chappard <aurelien.chappard@deefuse.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _n:1,2;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../likes-posts-comments.php:95
+msgid "Be the first to like this post"
+msgstr "Soyez la premier à aimer ça"
+
+#: ../likes-posts-comments.php:97
+#: ../likes-posts-comments.php:109
+#, php-format
+msgid "One person like"
+msgid_plural "%1$s persons like"
+msgstr[0] "Une personne aime"
+msgstr[1] "%1$s personnes aiment"
+
+#: ../likes-posts-comments.php:107
+msgid "Be the first to like this comment"
+msgstr "Soyez la premier à aimer ce commentaire"
+
+#: ../settings.php:32
+#: ../settings.php:94
+msgid "I like this post"
+msgstr "J'aime cet article"
+
+#: ../settings.php:33
+#: ../settings.php:101
+msgid "I do not like this post"
+msgstr "Je n'aime plus cet article"
+
+#: ../settings.php:34
+#: ../settings.php:108
+msgid "I like this comment"
+msgstr "J'aime ce commentaire"
+
+#: ../settings.php:35
+#: ../settings.php:115
+msgid "I do not like this comment"
+msgstr "Je n'aime plus ce commentaire"
+
+#: ../settings.php:39
+msgid "Likes management"
+msgstr "Réglages des boutons j'aime"
+
+#: ../settings.php:49
+msgid "Label for post like:"
+msgstr "Libellé pour aimer un article"
+
+#: ../settings.php:58
+msgid "Label for post unlike:"
+msgstr "Libellé pour ne plus aimer un article"
+
+#: ../settings.php:68
+msgid "Label for comment like:"
+msgstr "Libellé pour aimer un commentaire"
+
+#: ../settings.php:76
+msgid "Label for comment unlike:"
+msgstr "Libellé pour ne plus aimer un commentaire"
+
+#: ../settings.php:123
+msgid "You can customize the labels for each option"
+msgstr "Vous pouvez personnaliser les libellés pour chaque option"
+
+#: ../settings.php:154
+#: ../settings.php:164
+msgid "Likes Posts & Comments Options"
+msgstr "Options de configuration du plugin Likes Posts & Comments"
+
+#~ msgid "Possibility of unlike:"
+#~ msgstr "Offrir la possibilité de ne plus aimer :"
+
+#~ msgid ""
+#~ "You can give your users the ability to not like an article or a comment. "
+#~ "The adjustment is made below."
+#~ msgstr ""
+#~ "Vous pouvez offrir la possibilité à vos utilisateurs de ne plus aimer un "
+#~ "article ou un commentaire. Le réglage s'effectue ci-dessous."
+
+#~ msgid "I like"
+#~ msgstr "J'aime"
+
+#~ msgid "The position have been saved."
+#~ msgstr "La position d'affichage a été enregistrée."
+
+#~ msgid "Select the position of the debug box."
+#~ msgstr ""
+#~ "Sélectionnez la position de la zone de debug sur les pages de votre site :"
+
+#~ msgid "Top left"
+#~ msgstr "En haut à gauche"
+
+#~ msgid "Top right"
+#~ msgstr "En haut à droite"
+
+#~ msgid "Bottom left"
+#~ msgstr "En bas à gauche"
+
+#~ msgid "Bottom right"
+#~ msgstr "En bas à droite"
+
+#~ msgid ""
+#~ "If the toolbar is displayed when you visit the site, the template name "
+#~ "will be displayed in it and the above parameter will not be considered."
+#~ msgstr ""
+#~ "Si la barre d'outils est affichée lorsque vous visitez le site, le nom du "
+#~ "template sera affiché dans celle-ci et le paramètre ci-dessus ne sera pas "
+#~ "pris en compte"
+
+#~ msgid "Update Settings"
+#~ msgstr "Mettre à jour"
+
+#~ msgid "Current template:"
+#~ msgstr "Template en cours :"
+
+#~ msgid "Settings"
+#~ msgstr "Configuration"
+
+#~ msgid "String name"
+#~ msgstr "Nom de la chaine"
+
+#~ msgid "Other String"
+#~ msgstr "Autre chaine"
